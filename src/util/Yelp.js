@@ -1,5 +1,5 @@
-const clientId = "eMkHgg3tJTvi2kUY5lK60Q";
-const secret = "tCKkWMQRXJBEV9z0uzIyxC0uSi2lk6lYckzE5KVRWqaBBh7gsl8FGEMg3Q87ViKF";
+const clientId = "ehjkhjxxx";
+const secret = "secetafjklafjk;lfjl;sfjkxxx";
 let accessToken;
 
 
